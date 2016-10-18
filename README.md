@@ -1,2 +1,5 @@
-# PooProject
-Repositório da disciplina de POO
+# Projeto de POO
+##Repositório para o projeto de POO 2016.2
+### Informações
+* Aluno: Neudson josé Dias da Silva
+* Matrícula: 20152380056
